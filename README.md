@@ -78,7 +78,3 @@ Comecei a mexer em computadores muito antes de entender o que estava fazendo —
     <img src="https://img.shields.io/badge/Conecte--se%20comigo-LinkedIn-blue?style=flat-square&logo=linkedin" alt="Conecte-se comigo no LinkedIn"/>
   </a>
 </p>
-
-<p align="center">
-  <sub>Feito com 💙 por Julio Cezar Sanzovo</sub>
-</p>
