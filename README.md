@@ -12,6 +12,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estagiando-238636?style=for-the-badge" alt="Estudante"/>
+  <img src="https://img.shields.io/badge/Curso-ADS%20—%20PUC--PR-1f6feb?style=for-the-badge" alt="ADS PUC-PR"/>
+  <img src="https://img.shields.io/badge/Local-Curitiba%20—%20PR-555?style=for-the-badge" alt="Curitiba PR"/>
+  <img src="https://img.shields.io/badge/Foco-Dev%20%2B%20Infraestrutura-orange?style=for-the-badge" alt="Dev + Infraestrutura"/>
+</p>
+
 ---
 
 ### 🚀 Sobre mim
